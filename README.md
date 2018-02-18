@@ -1,8 +1,7 @@
-# EXEAppend : A PE File Appending, Buildig APP Demo
+# EXEAppend : A PE File Appending Demo
 # Written By : @Ice3man
 
-Notes :
-This project i had originally written for development of a Zip To SFX Convertor.
+I had originally written this project for development of a Zip To SFX Convertor.
 But that project was abandoned and I was left with some code. I had nearly nailed
 that one. But unfortunately, I abandoned the Idea. So, here it is. 
 
